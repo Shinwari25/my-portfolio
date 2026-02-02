@@ -19,6 +19,7 @@ const PROJECTS = [
       "Firebase",
     ],
     liveLink: "https://shinwari-blog.vercel.app",
+    category: "fullstack",
   },
   {
     title: "LoopStudio Website",

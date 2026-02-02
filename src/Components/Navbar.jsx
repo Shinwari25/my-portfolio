@@ -312,7 +312,7 @@ const Navbar = () => {
             >
               <IoMailOutline className="w-5 h-5" />
               <div className="absolute inset-0 bg-gradient-to-r from-pink-600 to-indigo-600 translate-x-full group-hover:translate-x-0 transition-transform duration-300"></div>
-              <span className="relative z-10">Contact me</span>
+              <span className="relative z-10">Hire me</span>
             </a>
           </motion.div>
 
